@@ -70,6 +70,32 @@ class TeamPlayers {
     void addPlayer(Player player) {
         team.add(player);
     }
+
+    @Override
+    public int hashCode() {
+        final int prime = 31;
+        int result = 1;
+        result = prime * result + ((name == null) ? 0 : name.hashCode());
+        return result;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj)
+            return true;
+        if (obj == null)
+            return false;
+        if (getClass() != obj.getClass())
+            return false;
+        TeamPlayers other = (TeamPlayers) obj;
+        if (name == null) {
+            if (other.name != null)
+                return false;
+        } else if (!name.equals(other.name))
+            return false;
+        return true;
+    }
+
 }
 
 class Teams {
@@ -102,8 +128,27 @@ public class Football {
         return 0;
 
     }
-     
-   
+
+    int check2(TeamPlayers singleTeam, Teams allTeams) {
+        Iterator<TeamPlayers> it = allTeams.teams.iterator();
+        Iterator<Player> itPlayer = singleTeam.team.iterator();
+        while (it.hasNext()) {
+            if (singleTeam.equals(it.next()))
+                continue;
+            else {
+                for (int i = 0; i < allTeams.teams.size(); i++) {
+                    while (itPlayer.hasNext()) {
+                        if (itPlayer.next().equals(allTeams.teams.get(i))) {
+                            return -1;
+                        }
+                    }
+                }
+            }
+
+        }
+        return 0;
+    }
+
     public static void main(String[] args) {
         int numTeam;
         int numPlayers;
@@ -137,6 +182,8 @@ public class Football {
                     team.addPlayer(singlePlayer);
                 }
             }
+
+        
         } catch (FileNotFoundException e) {
             System.out.println("cannot open the File!");
         }
