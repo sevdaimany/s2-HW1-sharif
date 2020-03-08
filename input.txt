@@ -1,0 +1,286 @@
+136 6
+dani carvajal
+eder militao
+sergio ramos
+raphael varane
+nacho
+eden hazard
+toni kroos
+karim benzema
+luka modric
+gareth bale
+marcelo
+thibaut courtois
+casemiro
+federico valverde
+james rodriguez
+lucas vazquez
+luka jovic
+marco asensio
+brahim diaz
+isco
+ferland mendy
+mariano
+vinicius junior
+rodrygo
+marc andre ter stegen
+nelson semedo
+gerard pique
+ivan rakitic
+sergio busquets
+arthur
+luis suarez
+lionel messi
+ousmane dembele
+neto
+clement lenglet
+antoine griezmann
+jordi alba
+sergi roberto
+frenkie de jong
+arturo vidal
+samuel umtiti
+junior firpo
+tomas vaclik
+sergi gomez
+lucas ocampos
+daniel carrico
+rony lopes
+nolito
+ever banega
+munir
+jules kounde
+bono
+suso
+youssef en nesyri
+jesus navas
+nemanja gudelj
+sergio escudero
+luuk de jong
+diego carlos
+oliver torres
+franco vazquez
+sergio reguilon
+joan jordan
+fernando
+javi diaz
+antonio adan
+jose gimenez
+santiago arias
+thomas partey
+koke
+aoao felix
+saul
+alvaro morata
+angel correa
+thomas lemar
+renan lodi
+jan oblak
+marcos llorente
+stefan savic
+hector herrera
+ivan saponjic
+felipe
+diego costa
+vitolo
+yannick carrasco
+mario hermoso
+kieran trippier
+sime vrsaljko
+alex remiro
+joseba zaldua
+diego llorente
+asier illarramendi
+igor zubeldia
+aritz elustondo
+portu
+mikel merino
+willian jose
+mikel oyarzabal
+adnan januzaj
+aihen munoz
+miguel angel moya
+ander guevara
+david zurutuza
+andoni gorosabel
+alexander isak
+nacho monreal
+martin odegaard
+ander barrenetxea
+luca sangalli
+robin le normand
+andoni zubiaurre
+jaume domenech
+thierry correia
+jaume costa
+eliaquim mangala
+gabriel paulista
+geoffrey kondogbia
+goncalo guedes
+carlos soler
+kevin gameiro
+dani parejo
+denis cheryshev
+mouctar diakhaby
+jasper cillessen
+jose gaya
+manu vallejo
+lee kang in
+francis coquelin
+daniel wass
+rodrigo
+ferran torres
+cristiano piccini
+maxi gomez
+ruben sobrino
+ezequiel garay
+alessandro florenzi
+real madrid
+25
+dani carvajal
+eder militao
+sergio ramos
+raphael varane
+nacho
+eden hazard
+toni kroos
+karim benzema
+luka modric
+gareth bale
+marcelo
+thibaut courtois
+casemiro
+federico valverde
+james rodriguez
+lucas vazquez
+luka jovic
+marco asensio
+brahim diaz
+martin odegaard
+isco
+ferland mendy
+mariano
+vinicius junior
+rodrygo
+barcelona
+18
+marc andre ter stegen
+nelson semedo
+gerard pique
+ivan rakitic
+sergio busquets
+arthur
+luis suarez
+lionel messi
+ousmane dembele
+neto
+clement lenglet
+antoine griezmann
+jordi alba
+sergi roberto
+frenkie de jong
+arturo vidal
+samuel umtiti
+junior firpo
+sevilla
+23
+tomas vaclik
+sergi gomez
+lucas ocampos
+daniel carrico
+rony lopes
+nolito
+ever banega
+munir
+jules kounde
+bono
+suso
+youssef en nesyri
+jesus navas
+nemanja gudelj
+sergio escudero
+luuk de jong
+diego carlos
+oliver torres
+franco vazquez
+sergio reguilon
+joan jordan
+fernando
+javi diaz
+atletico madrid
+23
+antonio adan
+jose gimenez
+santiago arias
+thomas partey
+koke
+aoao felix
+saul
+alvaro morata
+angel correa
+thomas lemar
+renan lodi
+jan oblak
+marcos llorente
+stefan savic
+hector herrera
+ivan saponjic
+felipe
+diego costa
+vitolo
+yannick carrasco
+mario hermoso
+kieran trippier
+sime vrsaljko
+real sociedad
+23
+alex remiro
+joseba zaldua
+diego llorente
+asier illarramendi
+igor zubeldia
+aritz elustondo
+portu
+mikel merino
+willian jose
+mikel oyarzabal
+adnan januzaj
+aihen munoz
+miguel angel moya
+ander guevara
+david zurutuza
+andoni gorosabel
+alexander isak
+nacho monreal
+martin odegaard
+ander barrenetxea
+luca sangalli
+robin le normand
+andoni zubiaurre
+valencia
+25
+jaume domenech
+thierry correia
+jaume costa
+eliaquim mangala
+gabriel paulista
+geoffrey kondogbia
+goncalo guedes
+carlos soler
+kevin gameiro
+dani parejo
+denis cheryshev
+mouctar diakhaby
+jasper cillessen
+jose gaya
+manu vallejo
+lee kang in
+francis coquelin
+daniel wass
+rodrigo
+ferran torres
+cristiano piccini
+maxi gomez
+ruben sobrino
+ezequiel garay
+alessandro florenzi
