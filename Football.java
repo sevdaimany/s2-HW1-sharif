@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 class Player {
-    String fullName;
+    private String fullName;
 
     public Player(String fullName) {
         this.fullName = fullName;
@@ -37,9 +37,18 @@ class Player {
 
 class TeamPlayers {
     ArrayList<Player> team = new ArrayList<Player>();
-    String name;
+    private String name;
+    
 
     public TeamPlayers(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
         this.name = name;
     }
 
@@ -71,6 +80,8 @@ class TeamPlayers {
             return false;
         return true;
     }
+
+   
 
 }
 
@@ -113,7 +124,7 @@ public class Football {
         Iterator<TeamPlayers> it = allTeams.teams.iterator();
         Iterator<Integer> it2 = eachTeamPlayerNum.iterator();
         while (it.hasNext()) {
-            
+
             int j = it2.next();
             TeamPlayers teamPlayers = it.next();
             if (singleTeam.equals(teamPlayers))
@@ -185,7 +196,7 @@ public class Football {
                 int a = footballcheck.check(teamPlayerExample, allPlayers);
                 int b = footballcheck.check2(teamPlayerExample, allTeams, eachTeamPlayerNum);
                 if ((a + b) != 0) {
-                    chosenTeams.add(teamPlayerExample.name);
+                    chosenTeams.add(teamPlayerExample.getName());
                 }
 
             }
